@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Live Demo
-Check out the live demo here: [Live Demo](https://your-host.com/infinite-scroll)
+Check out the live demo here: [Live Demo](http://gatchez.kesug.com)
 
 ---
 
@@ -43,20 +43,6 @@ infinite-scroll/
 
 ---
 
-## 🖼 Screenshots / Demo
-**Desktop view:**  
-![Desktop Screenshot](/mnt/data/A_README.md_file_for_a_project_titled_"Infinite_Sc.png)
-
-**Mobile view:**  
-![Mobile Screenshot](https://your-host.com/infinite-scroll/screenshot-mobile.png)
-
-**Demo GIF:**  
-![Demo GIF](https://your-host.com/infinite-scroll/demo.gif)
-
-> *Replace the above URLs with your real screenshots or GIF.*
-
----
-
 ## 🛠 Requirements
 - **PHP 7.x** or higher
 - **Unsplash API key** (stored as an environment variable)
@@ -68,7 +54,7 @@ infinite-scroll/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/infinite-scroll.git
+git clone https://github.com/gatchez/infinite-scroll.git
 cd infinite-scroll
 ```
 
